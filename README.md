@@ -1,5 +1,5 @@
 # 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=toddalbert&theme=dark)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=toddalbert&theme=sunset-gradient&hide_border=true&border_radius=8)](https://git.io/streak-stats)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=toddalbert&theme=discord&no-frame=false&no-bg=false&margin-w=4)
