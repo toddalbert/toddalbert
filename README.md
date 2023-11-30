@@ -1,13 +1,16 @@
 <div align="center">
-  <a href="https://www.youtube.com/user/CIRESTodd/videos" target="_blank" rel="noreferrer"><img width="100%" src="https://firebasestorage.googleapis.com/v0/b/toddalbert-com.appspot.com/o/3f5315f8-0814-46b8-b6fb-66c2bd247efa_clean_video_s3_key.webp?alt=media" /></a>
+  <a href="https://www.youtube.com/user/CIRESTodd/videos" target="_blank" rel="noreferrer">
+    <img width="100%" src="https://firebasestorage.googleapis.com/v0/b/toddalbert-com.appspot.com/o/20-sec-4mb.webp?alt=media" />
+  </a>
   <h1 align="center">Hi 👋, I'm Todd</h1>
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toddalbert" alt="toddalbert" /></a> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toddalbert" alt="toddalbert" /></a> </p>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/toddalbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="toddalbert" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/toddalbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="toddalbert" height="30" width="40" /></a>
 <a href="https://fb.com/toddhalbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="toddhalbert" height="30" width="40" /></a>
@@ -16,4 +19,6 @@
 <a href="https://www.youtube.com/c/cirestodd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cirestodd" height="30" width="40" /></a>
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=toddalbert&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img width="120" src="https://visitcount.itsvg.in/api?id=toddalbert&icon=0&color=0" />
+</div>
