@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Todd</h1>
+<div align="center">
+  <a href="https://www.youtube.com/user/CIRESTodd/videos" target="_blank" rel="noreferrer"><img width="100%" src="https://firebasestorage.googleapis.com/v0/b/toddalbert-com.appspot.com/o/3f5315f8-0814-46b8-b6fb-66c2bd247efa_clean_video_s3_key.webp?alt=media" /></a>
+  <h1 align="center">Hi 👋, I'm Todd</h1>
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toddalbert" alt="toddalbert" /></a> </p>
 
