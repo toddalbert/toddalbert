@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://www.youtube.com/user/CIRESTodd/videos" target="_blank" rel="noreferrer">
-    <img width="100%" src="https://firebasestorage.googleapis.com/v0/b/toddalbert-com.appspot.com/o/20-sec-4mb.webp?alt=media" />
+  <a href="https://www.toddalbert.com/" target="_blank" rel="noreferrer">
+    <img width="100%" src="https://firebasestorage.googleapis.com/v0/b/toddalbert-com.appspot.com/o/logos.png?alt=media" alt="greyscale logos of some of the many companies Todd has written code for" />
   </a>
   <h1 align="center">Hi 👋, I'm Todd</h1>
 </div>
