@@ -1,20 +1,57 @@
-<div align="center">
-  <a href="https://www.toddalbert.com/" target="_blank" rel="noreferrer">
-    <img width="100%" src="https://firebasestorage.googleapis.com/v0/b/toddalbert-com.appspot.com/o/logos.png?alt=media" alt="greyscale logos of some of the many companies Todd has written code for" />
-  </a>
-  <h1 align="center">Hi 👋, I'm Todd</h1>
-</div>
+# I rebuild complex systems.
 
+Engineering executive, former NASA-funded scientist, educator, founder, and author.
+I help teams find the structure inside complexity — then turn it into software, organizations, products, and stories that hold together.
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toddalbert" alt="toddalbert" /></a> </p>
+---
 
+## What I work on
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/toddalbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="toddalbert" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Todd.Albert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cirestodd" height="30" width="40" /></a>
-<a href="https://medium.com/@toddhalbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@toddhalbert" height="30" width="40" /></a>
-<a href="https://instagram.com/todd.albert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="todd.albert" height="30" width="40" /></a>
-<a href="https://twitter.com/toddalbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="toddalbert" height="30" width="40" /></a>
-<a href="https://fb.com/toddhalbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="toddhalbert" height="30" width="40" /></a>
-</p>
+**Engineering systems**
+Scaling teams, platforms, delivery practices, and technical decision-making for organizations moving from founder-led or legacy complexity into durable execution.
+
+**AI and product architecture**
+Designing practical AI-enabled products, workflows, and platforms that solve real customer problems instead of chasing demos.
+
+**Platform modernization**
+Untangling aging systems, improving reliability, clarifying architecture, and helping teams ship with more confidence.
+
+**Technical leadership**
+Building the structures engineers need: clear ownership, better feedback loops, stronger delivery habits, and healthier engineering culture.
+
+---
+
+## Current focus
+
+* VP of Engineering at CYPHER Learning
+* AI-enabled software systems
+* Engineering leadership and organizational design
+* Large-scale learning platforms
+* Writing about systems, memory, identity, and reconstruction
+
+---
+
+## Selected background
+
+* Former NASA-funded research fellow
+* Founder and CTO experience across SaaS, fintech, AI, cloud platforms, and education
+* Educator and mentor to emerging software engineers
+* Author of *Out of the Fish Tank*, a reconstruction of a lost family history
+
+---
+
+## How I think about engineering
+
+Good systems are not just code.
+They are agreements, feedback loops, constraints, tools, defaults, and stories that help people make better decisions under pressure.
+
+The work is rarely just to build more.
+It is usually to find the structure that was already trying to emerge — and make it strong enough to carry the next stage.
+
+---
+
+## Elsewhere
+
+* Website: ToddAlbert.com
+* LinkedIn: Todd Albert
+* Writing & speaking: ToddAlbert.com
